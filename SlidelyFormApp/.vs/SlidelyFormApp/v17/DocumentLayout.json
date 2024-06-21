@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|c:\\users\\hp\\source\\repos\\slidelyformapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|c:\\users\\hp\\source\\repos\\slidelyformapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|solutionrelative:createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|c:\\users\\hp\\source\\repos\\slidelyformapp\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|c:\\users\\hp\\source\\repos\\slidelyformapp\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|solutionrelative:createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|c:\\users\\hp\\source\\repos\\slidelyformapp\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|c:\\users\\hp\\source\\repos\\slidelyformapp\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|c:\\users\\hp\\source\\repos\\slidelyformapp\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|solutionrelative:submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|c:\\users\\hp\\source\\repos\\slidelyformapp\\apiclient.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3F8A8FC6-53FC-411A-9C6E-1CE092EA7066}|SlidelyFormApp.vbproj|solutionrelative:apiclient.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "CreateSubmissionForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T23:14:34.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAqwLwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T22:18:24.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\CreateSubmissionForm.vb [Design]",
+              "RelativeToolTip": "CreateSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:35:06.543Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T14:41:43.56Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Submission.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\Submission.vb",
+              "RelativeDocumentMoniker": "Submission.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\Submission.vb",
+              "RelativeToolTip": "Submission.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T22:15:30.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\MainForm.vb [Design]",
+              "RelativeToolTip": "MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T20:50:36.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\MainForm.vb",
+              "RelativeToolTip": "MainForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:53:57.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiClient.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\ApiClient.vb",
+              "RelativeDocumentMoniker": "ApiClient.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SlidelyFormApp\\ApiClient.vb",
+              "RelativeToolTip": "ApiClient.vb",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T00:38:32.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "submissions": [
+    {
+      "name": "Priyanshu",
+      "email": "kanish8621.com",
+      "phone": "6376515258",
+      "github_link": "www.git.com",
+      "stopwatch_time": "00:00:02"
+    },
+    {
+      "name": "Shubhanjali",
+      "email": "su123@gmail.com",
+      "phone": "9319318157",
+      "github_link": "www.nov.com",
+      "stopwatch_time": "00:00:02"
+    },
+    {
+      "name": "himanshu",
+      "email": "himanshu12@gmail.com",
+      "phone": "6367845987",
+      "github_link": "www.himanshu.com",
+      "stopwatch_time": "00:00:00"
+    },
+    {
+      "name": "anmol",
+      "email": "anmol@hotmail",
+      "phone": "987356424",
+      "github_link": "www.anmolgit.com",
+      "stopwatch_time": "00:00:04"
+    },
+    {
+      "name": "bhaskar",
+      "email": "bhaskar@yahoo",
+      "phone": "6876546977",
+      "github_link": "www.bhaskar.com",
+      "stopwatch_time": "00:00:02"
+    }
+  ]
+}
